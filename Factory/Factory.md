@@ -11,7 +11,7 @@
 - Objects returned from factory method are called products
 
 ```plantuml
-@startuml
+@startuml factoryExample
 interface Logistic {
 deliver()
 }
@@ -25,3 +25,4 @@ Logistic <|-- Truck
 Logistic <|-- Sea
 @enduml
 ```
+[](https://www.plantuml.com/plantuml/svg/SoWkIImgAStDuShCAqajIajCJbNmoK_FB2x9J5Qevaf9pSaiIotIqEIgvKhEIImkLWWfAatEnYOHd9g8AWmtngP6LnUY3rKCf8NB8JKl1MWz0000)
