@@ -1,6 +1,6 @@
-from AdapterPattern.Adaptee import Adaptee
-from AdapterPattern.Adapter import Adapter
-from AdapterPattern.Target import Target
+from Adapter.AdapterPattern.Adaptee import Adaptee
+from Adapter.AdapterPattern.Adapter import Adapter
+from Adapter.AdapterPattern.Target import Target
 
 
 def client_code(target: Target) -> None:

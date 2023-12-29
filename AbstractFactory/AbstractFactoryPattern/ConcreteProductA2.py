@@ -1,4 +1,4 @@
-from AbstractFactoryPattern.AbstractProductA import AbstractProductA
+from AbstractFactory.AbstractFactoryPattern.AbstractProductA import AbstractProductA
 
 
 class ConcreteProductA2(AbstractProductA):

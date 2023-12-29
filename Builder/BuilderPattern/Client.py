@@ -1,5 +1,5 @@
-from BuilderPattern.ConcreteBuilder import ConcreteBuilder
-from BuilderPattern.Director import Director
+from Builder.BuilderPattern.ConcreteBuilder import ConcreteBuilder
+from Builder.BuilderPattern.Director import Director
 
 
 def client():

@@ -1,4 +1,4 @@
-from BuilderPattern.Builder import Builder
+from Builder.BuilderPattern.Builder import Builder
 
 
 class Director:

@@ -1,4 +1,4 @@
-from Factory.Product import Product
+from Factory.FactoryPattern.Product import Product
 
 
 class ConcreteProduct2(Product):

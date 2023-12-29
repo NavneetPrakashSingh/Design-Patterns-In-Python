@@ -1,6 +1,6 @@
-from AbstractFactoryPattern.AbstractFactory import AbstractFactory
-from AbstractFactoryPattern.ConcreteFactory1 import ConcreteFactory1
-from AbstractFactoryPattern.ConcreteFactory2 import ConcreteFactory2
+from AbstractFactory.AbstractFactoryPattern.AbstractFactory import AbstractFactory
+from AbstractFactory.AbstractFactoryPattern.ConcreteFactory1 import ConcreteFactory1
+from AbstractFactory.AbstractFactoryPattern.ConcreteFactory2 import ConcreteFactory2
 
 
 def client_code(factory: AbstractFactory) -> None:

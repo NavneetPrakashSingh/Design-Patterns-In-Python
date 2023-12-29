@@ -1,6 +1,6 @@
-from abc import ABC, abstractmethod
+from abc import abstractmethod
 
-from AbstractFactoryPattern import AbstractProductA, AbstractProductB
+from AbstractFactory.AbstractFactoryPattern import AbstractProductA, AbstractProductB
 
 
 class AbstractFactory:

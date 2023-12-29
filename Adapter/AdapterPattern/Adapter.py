@@ -1,5 +1,5 @@
-from AdapterPattern.Adaptee import Adaptee
-from AdapterPattern.Target import Target
+from Adapter.AdapterPattern.Adaptee import Adaptee
+from Adapter.AdapterPattern.Target import Target
 
 
 class Adapter(Target):

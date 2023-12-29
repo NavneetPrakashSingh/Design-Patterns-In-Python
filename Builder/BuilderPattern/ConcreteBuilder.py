@@ -1,5 +1,5 @@
-from BuilderPattern.Product import Product
-from BuilderPattern.Builder import Builder
+from Builder.BuilderPattern.Product import Product
+from Builder.BuilderPattern.Builder import Builder
 
 
 class ConcreteBuilder(Builder):
